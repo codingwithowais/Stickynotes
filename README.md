@@ -7,4 +7,4 @@ This app has search filter functionality where you can just search your notes by
 The most important feature is that once you add your note, it will get stored in the localstorage of your browser and even after restarting the app you will have your notes
 as it is where you left until you don't delete your notes! But it wont work if you are using different browsers all the time you have to use a particular browser to use this app 
 to get your notes back everytime using this app.
-
+https://stickynotesbyowais.netlify.app is the given link to use this app.
